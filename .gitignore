@@ -75,3 +75,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+ProjectSpace/Content/StarterContent/
+ProjectSpace/Intermediate/
+ProjectSpace/Saved/
+ProjectSpace/Content/Mannequin/
+ProjectSpace/Content/ThirdPerson/
+ProjectSpace/Content/Geometry/
+ProjectSpace/Binaries/
+ProjectSpace/Content/ThirdPersonCPP/
